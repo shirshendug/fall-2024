@@ -1,6 +1,6 @@
 ---
-title: "Statistics 999: Generic Statistics Class"
-subtitle: "UC Berkeley, Spring 2024"
+title: "Statistics 206a: Advanced Topics in Probability and Stochastic Process"
+subtitle: "UC Berkeley, Fall 2024"
 listing:
   - id: buttons
     template: assets/buttons.ejs
