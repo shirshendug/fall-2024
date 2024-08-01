@@ -1,0 +1,10 @@
+- button: Ed
+  link: https://berkeley.edu
+  color: purple
+- button: DataHub
+  link: https://berkeley.edu
+  color: green
+- button: Gradescope
+  link: https://berkeley.edu
+  color: orange
+
