@@ -10,11 +10,11 @@ Office hours are subject to change.
 ::: {.grid}
 
 ::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Person X</a><br>
-`x@berkeley.edu`<br>
+**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Shirshendu Ganguly</a><br>
+`sganguly@berkeley.edu`<br>
 Office hours: <br>
-- Thursday 3pm-5pm, Evans 309 <br>
-- Friday 2:00pm-4:30pm, Evans 309<br>
+- Thursday 3pm-5pm, Evans 401<br>
+- Friday 2:00pm-4:30pm, Evans 401<br>
 :::
 
 ::: {.g-col-4}
