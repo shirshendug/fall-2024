@@ -1,25 +1,10 @@
----
-title: "Syllabus"
----
+Title: Geometric aspects of high dimensional Gibbs measures
 
-Jump to:
+Description: High dimensional Gibbs measures are ubiquitous in probability theory, statistical mechanics and theoretical computer science. A generic example, say on the hypercube Q=\{-1,1\}^n, is given by a Hamitonian H: Q\to \mathbb{R}, with the measure \mu at \sigma \in Q being proportional to \exp\left(-\beta H(\sigma)\right) where \beta>0 is the inverse temperature parameter. Z, the normalizing constant, is known as the partition function. Central examples include  the Ising model, spin glass models, exponential random graphs, the hardcore model and so on. Such Gibbs measures also admit natural Glauber dynamics which keep \mu stationary.
+The energy landscape induced by the Hamiltonian can often be quite complicated admitting exponentially many near ground states (the ground state is the state with the minimal energy).  
 
-- [About Stat 206a](#about)
-  - [Goals](#goals)
-  - [Prerequisites](#prerequisites)
+In this course we will learn various techniques to estimate the partition function as well as establish structure theorems for a variety of Gibbs measures and the behavior of the associated Glauber dynamics. Phenomena such as super-concentration, chaos, multiple valleys and peaks, replica symmetry/breaking and metastability will be explored. 
 
+We will assume familiarity with the basics of graduate probability equivalent to Stat 205 A.  
 
-## About Stat 206a
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
-
-### Goals
-
-
-- Goal 1
-- Goal 2
-- Goal 3
-
-### Prerequisites
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+A schedule of lectures will be maintained on bcourses with scribe notes. Interested people should email me about course materials. 
